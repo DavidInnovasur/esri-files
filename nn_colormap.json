@@ -1,7 +1,4 @@
-// Colormap generado automáticamente desde C:\repos\pruebas_servicio\test_tenant\test_tenant_prueba_consola_ab180da3-d3cb-41e3-a1a0-4372188d4452.gdb\NaturalNeighbor_meto4
-// Compatible con ArcGIS JavaScript SDK
-
-export const rasterColormap = {
+{
   "type": "raster-colormap",
   "colormapInfos": [
     {
@@ -95,8 +92,4 @@ export const rasterColormap = {
       "label": "3,335e+01 - 3,388e+01"
     }
   ]
-};
-
-// Uso con ArcGIS JavaScript SDK:
-// import { rasterColormap } from './colormap.js';
-// const renderer = new RasterColormapRenderer(rasterColormap);
+}
