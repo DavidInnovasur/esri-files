@@ -1,0 +1,102 @@
+// Colormap generado automáticamente desde C:\repos\pruebas_servicio\test_tenant\test_tenant_prueba_consola_ab180da3-d3cb-41e3-a1a0-4372188d4452.gdb\NaturalNeighbor_meto4
+// Compatible con ArcGIS JavaScript SDK
+
+export const rasterColormap = {
+  "type": "raster-colormap",
+  "colormapInfos": [
+    {
+      "value": 29.650739881727432,
+      "color": [
+        83,
+        137,
+        193,
+        51
+      ],
+      "label": "2,912e+01 - 2,965e+01"
+    },
+    {
+      "value": 30.17886585659451,
+      "color": [
+        101,
+        128,
+        175,
+        102
+      ],
+      "label": "2,965e+01 - 3,018e+01"
+    },
+    {
+      "value": 30.70699183146159,
+      "color": [
+        119,
+        120,
+        158,
+        178
+      ],
+      "label": "3,018e+01 - 3,071e+01"
+    },
+    {
+      "value": 31.235117806328667,
+      "color": [
+        137,
+        112,
+        140,
+        242
+      ],
+      "label": "3,071e+01 - 3,124e+01"
+    },
+    {
+      "value": 31.763243781195747,
+      "color": [
+        155,
+        104,
+        123,
+        255
+      ],
+      "label": "3,124e+01 - 3,176e+01"
+    },
+    {
+      "value": 32.29136975606283,
+      "color": [
+        173,
+        96,
+        105,
+        255
+      ],
+      "label": "3,176e+01 - 3,229e+01"
+    },
+    {
+      "value": 32.8194957309299,
+      "color": [
+        191,
+        88,
+        88,
+        255
+      ],
+      "label": "3,229e+01 - 3,282e+01"
+    },
+    {
+      "value": 33.34762170579698,
+      "color": [
+        209,
+        80,
+        70,
+        255
+      ],
+      "label": "3,282e+01 - 3,335e+01"
+    },
+    {
+      "value": 33.87574768066406,
+      "color": [
+        228,
+        72,
+        53,
+        255
+      ],
+      "label": "3,335e+01 - 3,388e+01"
+    }
+  ]
+};
+
+// Uso con ArcGIS JavaScript SDK:
+// import { rasterColormap } from './colormap.js';
+// const renderer = new RasterColormapRenderer(rasterColormap);
