@@ -1,0 +1,102 @@
+{
+  "type": "raster-colormap",
+  "colormapInfos": [
+    {
+      "value": 8656.366319444445,
+      "color": [
+        83,
+        137,
+        193,
+        51
+      ],
+      "label": "0,000e+00 - 8,656e+03"
+    },
+    {
+      "value": 17312.73263888889,
+      "color": [
+        101,
+        128,
+        175,
+        102
+      ],
+      "label": "8,656e+03 - 1,731e+04"
+    },
+    {
+      "value": 25969.098958333336,
+      "color": [
+        119,
+        120,
+        158,
+        178
+      ],
+      "label": "1,731e+04 - 2,597e+04"
+    },
+    {
+      "value": 34625.46527777778,
+      "color": [
+        137,
+        112,
+        140,
+        242
+      ],
+      "label": "2,597e+04 - 3,463e+04"
+    },
+    {
+      "value": 43281.831597222226,
+      "color": [
+        155,
+        104,
+        123,
+        255
+      ],
+      "label": "3,463e+04 - 4,328e+04"
+    },
+    {
+      "value": 51938.19791666667,
+      "color": [
+        173,
+        96,
+        105,
+        255
+      ],
+      "label": "4,328e+04 - 5,194e+04"
+    },
+    {
+      "value": 60594.56423611112,
+      "color": [
+        191,
+        88,
+        88,
+        255
+      ],
+      "label": "5,194e+04 - 6,059e+04"
+    },
+    {
+      "value": 69250.93055555556,
+      "color": [
+        209,
+        80,
+        70,
+        255
+      ],
+      "label": "6,059e+04 - 6,925e+04"
+    },
+    {
+      "value": 77907.296875,
+      "color": [
+        228,
+        72,
+        53,
+        255
+      ],
+      "label": "6,925e+04 - 7,791e+04"
+    }
+  ],
+  "metadata": {
+    "source": "C:\\repos\\pruebas_servicio\\test_tenant\\test_tenant_prueba_consola_ab180da3-d3cb-41e3-a1a0-4372188d4452.gdb\\mapa_calor_raster_cog_net_3",
+    "generated_by": "ArcGIS Pro CityBrain Connector",
+    "color_interpolation": "83,137,193 -> 228,72,53",
+    "class_breaks": 9,
+    "transparency_progression": "80%, 60%, 30%, 5%, then opaque"
+  }
+}
